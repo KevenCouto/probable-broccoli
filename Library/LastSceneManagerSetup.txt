@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scene/Cena_Teste_Robo.unity
+  isLoaded: 1
+  isActive: 1
